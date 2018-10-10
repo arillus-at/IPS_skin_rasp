@@ -1,9 +1,9 @@
 {
-    "author": "IP-Symcon User",
-    "version": "1.0",
+    "author": "Andreas Thür",
+    "version": "0.1",
     "compatible": 1,
-    "url": "http:\/\/www.ip-symcon.de\/forum\/",
-    "git": "https:\/\/github.com\/paresy\/CustomIcons.git",
+    "url": "http:\/\/www.thuer-it.com",
+    "git": "https:\/\/github.com\/arillus-at\/IPS_skin_rasp",
     "icons": [
 
     ]
