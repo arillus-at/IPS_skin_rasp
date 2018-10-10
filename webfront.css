@@ -2,3 +2,5 @@
 
 .ipsCategory>.container .content .link>.chartLink {display: none !important;}
 .ipsCategory > .container {margin: 0 ;}
+
+.ipsWebFront .ipsContainer .content .ipsContainer .left .ipsContainer .ipsContainer .content .ipsContainer .ipsContainer.container.nestedUneven.hasChildren.ipsInstance {color:red;}
