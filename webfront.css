@@ -6,4 +6,4 @@
 .ipsWebFront .ipsContainer .content .ipsContainer .left .ipsContainer .ipsContainer .content .ipsContainer .ipsContainer.container.nestedUneven.hasChildren.ipsInstance {color:red;}
 
 
-.ipsCategory > .right > left > .container > .icon {display: none !important;}
+.ipsWebFront .ipsContainer .container .content .top .right .left .icon {display: none !important;}
