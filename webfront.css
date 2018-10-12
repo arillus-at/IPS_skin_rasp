@@ -3,7 +3,9 @@
 .ipsCategory>.container .content .link>.chartLink {display: none !important;}
 .ipsCategory > .container {margin: 0 ;}
 
-.ipsWebFront .ipsContainer .content .ipsContainer .left .ipsContainer .ipsContainer .content .ipsContainer .ipsContainer.container.nestedUneven.hasChildren.ipsInstance {color:red;}
+.ipsWebFront .ipsContainer .content .ipsContainer .left .ipsContainer .ipsContainer .content .ipsContainer .ipsContainer.container.nestedUneven.hasChildren.ipsInstance {color:green;}
 
 
 .ipsWebFront .ipsContainer .container .content .top .right .left .icon {display: none !important;}
+
+.ipsWebFront .ipsContainer .content .ipsContainer .top .ipsContainer .right .ipsContainer .left .ipsContainer .ipsContainer .content .ipsContainer .ipsContainer .content .icon {display: none !important;}
